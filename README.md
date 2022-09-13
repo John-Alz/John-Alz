@@ -31,7 +31,7 @@ Me apasiona el software y los nuevos desafíos ¿Quieres saber más de mí? Cont
 <div align="center">
  
 ## 🌟 Proyectos destacados
-<a href="https://app-dogs-zeta.vercel.app/"><h4>The Dog's App Page</h4><a/> 
+<a href="https://app-dogs-zeta.vercel.app/"><h4>Wiki Dog's App Page</h4><a/> 
  
 <a href="https://github.com/John-Alz/DOGS"><h4>GitHub Repo</h4><a/> 
  
