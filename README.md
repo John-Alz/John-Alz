@@ -6,7 +6,7 @@
  <br />
 <div align="center">
 Soy un desarrollador web con inclinación hacia el desarrollo FrontEnd y el diseño de aplicaciones web.
-Siempre dispuesto a trabajar en equipo y con gran interés en estar en constante aprendizaje, cuento con experiencia académica en dos proyectos, los cuales puedes encontrar en el apartado de "proyectos".
+Siempre dispuesto a trabajar en equipo y con gran interés en estar en constante aprendizaje, cuento con experiencia académica en dos proyectos, los cuales puedes encontrar en la parte inferior de este readme.
 
 Me apasiona el software y los nuevos desafíos ¿Quieres saber más de mí? Contáctame.
  </div>
