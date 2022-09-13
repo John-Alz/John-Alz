@@ -1,6 +1,6 @@
 <img align="center" src="https://i.imgur.com/DUHz9wN.png" alt="bg"/>
 <div align="center">
-<h1>Hi! I'm Jesus</h1> 
+<h1>Hi! I'm John</h1> 
  </div>
  
  <br />
