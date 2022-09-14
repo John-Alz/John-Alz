@@ -57,7 +57,6 @@ JavaScript - React - Redux - CSS - Tailwindcss - Node.js (NodeMailer, Paypal Dev
 ## 🔗 ¡Algunos enlaces para ver más de mi trabajo y ponerse en contacto!
 <div>
   <ul>
-   <li><a href=""><img src="https://img.icons8.com/android/24/26e07f/briefcase.png" /><span> <b>Portfolio</b></span></a></li>
     <li><a href="https://www.linkedin.com/in/john-angel-993992246/"><img src="https://img.icons8.com/android/24/4a90e2/linkedin.png" /><span> <b>LinkedIn</b></span></a></li>
     <li><a href="jairoanngelll@gmail.com"><img src="https://img.icons8.com/material/24/ffffff/mail.png" /><span> <b>Email</b></span></a></li>
   </ul>
