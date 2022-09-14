@@ -37,7 +37,7 @@ Me apasiona el software y los nuevos desafíos ¿Quieres saber más de mí? Cont
  
  ```
 Tecnologias:
-JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
+JavaScript || CSS || React || Redux || Express || Node.js || Sequelize || PostgreSQL
 ```
  
  <a href="https://rgbtech.vercel.app/"><h4>E-Commerce RGBtech</h4><a/> 
