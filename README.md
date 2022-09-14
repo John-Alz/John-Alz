@@ -42,7 +42,7 @@ JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
  
  <a href="https://rgbtech.vercel.app/"><h4>E-Commerce RGBtech Page</h4><a/> 
  
-<a href=""><h4>GitHub Repo</h4><a/> 
+<a href="https://github.com/RGBTech-PF/rgbtech"><h4>GitHub Repo</h4><a/> 
  
  
  
