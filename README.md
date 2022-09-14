@@ -31,7 +31,7 @@ Me apasiona el software y los nuevos desafíos ¿Quieres saber más de mí? Cont
 <div align="center">
  
 ## Proyectos Relevantes.
-<a href="https://app-dogs-zeta.vercel.app/"><h4>Wiki Dog's App Page</h4><a/> 
+<a href="https://app-dogs-zeta.vercel.app/"><h4>Wiki Dog's App</h4><a/> 
  
 <a href="https://github.com/John-Alz/DOGS"><h4>GitHub Repo</h4><a/> 
  
@@ -40,7 +40,7 @@ Tecnologias:
 JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
 ```
  
- <a href="https://rgbtech.vercel.app/"><h4>E-Commerce RGBtech Page</h4><a/> 
+ <a href="https://rgbtech.vercel.app/"><h4>E-Commerce RGBtech</h4><a/> 
  
 <a href="https://github.com/RGBTech-PF/rgbtech"><h4>GitHub Repo</h4><a/> 
  
@@ -48,7 +48,7 @@ JavaScript - React - Redux - CSS - Node.js - Express - PostgreSQL - Sequelize
  
  ```
 Tecnologies:
-JavaScript - React - Redux - CSS - Tailwindcss - Node.js (NodeMailer, Paypal Developer) - Express - PostgreSQL - Sequelize
+JavaScript || CSS  || React || Redux || Tailwindcss || Node.js || Express || PostgreSQL || Sequelize
 ```
  
 </div>
