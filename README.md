@@ -1,4 +1,3 @@
-
 <div align="center">
 <h1>Hola! soy John</h1> 
  </div>
@@ -62,3 +61,4 @@ JavaScript || CSS  || React || Redux || Tailwindcss || Node.js || Express || Pos
   </ul>
   <hr />
 </div>
+
