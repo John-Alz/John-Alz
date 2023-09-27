@@ -29,26 +29,7 @@ Me apasiona el software y los nuevos desafíos ¿Quieres saber más de mí? Cont
 <br />
 <div align="center">
  
-## Proyectos Relevantes.
-<a href="https://app-dogs-zeta.vercel.app/"><h4>Wiki Dog's App</h4><a/> 
- 
-<a href="https://github.com/John-Alz/DOGS"><h4>GitHub Repo</h4><a/> 
- 
- ```
-Tecnologias:
-JavaScript || CSS || React || Redux || Express || Node.js || Sequelize || PostgreSQL
-```
- 
- <a href="https://rgbtech.vercel.app/"><h4>E-Commerce RGBtech</h4><a/> 
- 
-<a href="https://github.com/RGBTech-PF/rgbtech"><h4>GitHub Repo</h4><a/> 
- 
- 
- 
- ```
-Tecnologies:
-JavaScript || CSS  || React || Redux || Tailwindcss || Node.js || Express || PostgreSQL || Sequelize
-```
+
  
 </div>
  
