@@ -16,4 +16,4 @@ Soy desarrollador Backend especializado en Java y Spring WebFlux, con experienci
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkore101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-angel-backend-developer/)
